@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet2\\LabMyStoreWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AD43C-3393-486A-93A6-5E13DE723B58}|LabMyStoreWPF.csproj|d:\\dotnet2\\labmystorewpf\\labmystorewpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC6AD43C-3393-486A-93A6-5E13DE723B58}|LabMyStoreWPF.csproj|solutionrelative:labmystorewpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AD43C-3393-486A-93A6-5E13DE723B58}|LabMyStoreWPF.csproj|d:\\dotnet2\\labmystorewpf\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6AD43C-3393-486A-93A6-5E13DE723B58}|LabMyStoreWPF.csproj|solutionrelative:categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AD43C-3393-486A-93A6-5E13DE723B58}|LabMyStoreWPF.csproj|d:\\dotnet2\\labmystorewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC6AD43C-3393-486A-93A6-5E13DE723B58}|LabMyStoreWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AD43C-3393-486A-93A6-5E13DE723B58}|LabMyStoreWPF.csproj|d:\\dotnet2\\labmystorewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6AD43C-3393-486A-93A6-5E13DE723B58}|LabMyStoreWPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6AD43C-3393-486A-93A6-5E13DE723B58}|LabMyStoreWPF.csproj|d:\\dotnet2\\labmystorewpf\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6AD43C-3393-486A-93A6-5E13DE723B58}|LabMyStoreWPF.csproj|solutionrelative:category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabMyStoreWPF",
+              "DocumentMoniker": "D:\\dotnet2\\LabMyStoreWPF\\LabMyStoreWPF.csproj",
+              "RelativeDocumentMoniker": "LabMyStoreWPF.csproj",
+              "ToolTip": "D:\\dotnet2\\LabMyStoreWPF\\LabMyStoreWPF.csproj",
+              "RelativeToolTip": "LabMyStoreWPF.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-05T16:04:03.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\dotnet2\\LabMyStoreWPF\\CategoryService.cs",
+              "RelativeDocumentMoniker": "CategoryService.cs",
+              "ToolTip": "D:\\dotnet2\\LabMyStoreWPF\\CategoryService.cs",
+              "RelativeToolTip": "CategoryService.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwE8AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:32:32.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\dotnet2\\LabMyStoreWPF\\Category.cs",
+              "RelativeDocumentMoniker": "Category.cs",
+              "ToolTip": "D:\\dotnet2\\LabMyStoreWPF\\Category.cs",
+              "RelativeToolTip": "Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T15:31:55.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\dotnet2\\LabMyStoreWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\dotnet2\\LabMyStoreWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T12:41:17.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\dotnet2\\LabMyStoreWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\dotnet2\\LabMyStoreWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAywBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:41:15.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
